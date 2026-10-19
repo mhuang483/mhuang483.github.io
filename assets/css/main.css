@@ -3907,3 +3907,14 @@ input, select, textarea {
 			}
 
 		}
+.death-spotlight > section > .image {
+    width: 25em;
+    flex: 0 0 25em;
+}
+
+.death-spotlight > section > .image img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
